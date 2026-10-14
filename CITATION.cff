@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this research code and data package when using the associated implementation or saved evidence."
+type: dataset
+title: 'Research Code and Data for "Identifiable Directed Contributions in Multi-RIS Scattering: Receiver-Only Estimation and Calibrated Reliability"'
+authors:
+  - family-names: Liu
+    given-names: Ziming
+    affiliation: "BELL Honors College, Nanjing University of Posts and Telecommunications"
+    email: "zimmyliuu@gmail.com"
+repository-code: "https://github.com/zimmyliuu/multi-ris-directed-contributions"
+url: "https://github.com/zimmyliuu/multi-ris-directed-contributions"
+abstract: >-
+  Curated research implementation, frozen simulation results, calibration
+  records, and figure-reproduction inputs accompanying the manuscript by
+  Ziming Liu. Includes 900 fresh paired confirmation geometries and SHA256
+  integrity verification. The scientific scope is identifiable coexisting
+  directed RIS contributions under the stated quasistatic scalar model,
+  receiver-only estimation, and distribution-specific calibrated reliability.
+  The package does not establish general unknown-topology recovery or hardware
+  validation.
+keywords:
+  - reconfigurable intelligent surfaces
+  - channel estimation
+  - identifiability
+  - inverse scattering
+  - risk calibration
+  - selective inference
