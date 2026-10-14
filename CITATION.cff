@@ -8,7 +8,10 @@ authors:
     affiliation: "BELL Honors College, Nanjing University of Posts and Telecommunications"
     email: "zimmyliuu@gmail.com"
 repository-code: "https://github.com/zimmyliuu/multi-ris-directed-contributions"
-url: "https://github.com/zimmyliuu/multi-ris-directed-contributions"
+url: "https://zenodo.org/records/23357653"
+doi: "10.5281/zenodo.23357653"
+version: "1.0.0"
+date-released: 2026-10-14
 abstract: >-
   Curated research implementation, frozen simulation results, calibration
   records, and figure-reproduction inputs accompanying the manuscript by
