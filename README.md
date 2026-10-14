@@ -11,11 +11,12 @@ This repository accompanies the manuscript with a curated research implementatio
 
 The complete scientific package is distributed as the release attachment **Research_code_and_saved_results.zip**.
 
-- [Repository releases](https://github.com/zimmyliuu/multi-ris-directed-contributions/releases)
+- [Download Research_code_and_saved_results.zip](https://github.com/zimmyliuu/multi-ris-directed-contributions/releases/download/v1.0.0/Research_code_and_saved_results.zip)
+- [Release v1.0.0](https://github.com/zimmyliuu/multi-ris-directed-contributions/releases/tag/v1.0.0)
 - Archive size: **33,268,745 bytes**
 - SHA256: `46c1861ced9a1b428d163c6a60309bb4378df7c10ca340d8b4294993d3807e19`
 
-The release attachment is being prepared. Use the link above to check its publication status. The repository's automatically generated source-code ZIP contains repository metadata and is not a substitute for the named research package.
+Release v1.0.0 is published, and the complete research package is available through the download link above. Download the attachment named **Research_code_and_saved_results.zip**. The automatically generated **Source code (zip)** and **Source code (tar.gz)** archives at this release contain only the repository's wrapper metadata and do not contain the research package.
 
 The research ZIP contains 373 files: 372 files covered by its integrity manifest, plus the manifest itself. All 372 manifest sizes and SHA256 hashes were verified before repository preparation.
 
