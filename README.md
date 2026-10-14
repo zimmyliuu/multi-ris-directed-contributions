@@ -9,6 +9,8 @@ This repository accompanies the manuscript with a curated research implementatio
 
 ## Download
 
+**Version 1.0.0 DOI:** [10.5281/zenodo.23357653](https://doi.org/10.5281/zenodo.23357653), published 14 October 2026.
+
 The complete scientific package is distributed as the release attachment **Research_code_and_saved_results.zip**.
 
 - [Download Research_code_and_saved_results.zip](https://github.com/zimmyliuu/multi-ris-directed-contributions/releases/download/v1.0.0/Research_code_and_saved_results.zip)
@@ -20,9 +22,15 @@ Release v1.0.0 is published, and the complete research package is available thro
 
 The research ZIP contains 373 files: 372 files covered by its integrity manifest, plus the manifest itself. All 372 manifest sizes and SHA256 hashes were verified before repository preparation.
 
+### Zenodo archive
+
+The same scientific files are archived in [Zenodo record 23357653](https://zenodo.org/records/23357653) as **eight independent ZIP parts** plus `README_ZENODO_PARTS.txt`. Download all eight files named `Research_code_and_saved_results_part_01_of_08.zip` through `Research_code_and_saved_results_part_08_of_08.zip`, then extract every part into the **same new directory**, preserving relative paths. Each part is a valid ZIP; do not concatenate their binary contents.
+
+Together the eight parts reproduce all 373 files in the original GitHub research ZIP byte for byte. The public Zenodo record's nine filenames, sizes, and MD5 checksums were checked against the prepared local distribution. The original single ZIP remains available from the GitHub release above.
+
 ## Integrity verification
 
-Extract the named research ZIP into a new directory. From the extracted package directory, run:
+Extract either the single GitHub research ZIP or all eight Zenodo ZIP parts into a new directory. From the extracted package directory, run:
 
 ```sh
 python verify_integrity.py
@@ -68,6 +76,8 @@ Historical workspace-preservation checks can expect ancillary files that were de
 
 ## Citation and reuse
 
-Citation metadata is provided in [CITATION.cff](CITATION.cff). A DOI has not yet been issued for this repository or package; the repository URL can currently be used to locate it.
+Citation metadata is provided in [CITATION.cff](CITATION.cff). Cite this archived version using DOI [10.5281/zenodo.23357653](https://doi.org/10.5281/zenodo.23357653):
+
+Liu, Ziming. (2026). *Research Code and Data for "Identifiable Directed Contributions in Multi-RIS Scattering: Receiver-Only Estimation and Calibrated Reliability"* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23357653
 
 No new reuse license is granted by this repository. Public availability alone does not confer a software or data reuse license. Contact the author for permissions.
